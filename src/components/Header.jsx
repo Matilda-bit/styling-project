@@ -46,14 +46,13 @@ margin-bottom: 2rem;
   }
 }
 `;
+
 export default function Header() {
   return (
     <StyledHeader>
       <img src={logo} alt="A canvas" />
       <h1>ReactArt</h1>
-      <p 
-      //className={clsses.paragraph}
-      >A community of artists and art-lovers.</p>
+      <p>A community of artists and art-lovers.</p>
     </StyledHeader>
   );
 }
