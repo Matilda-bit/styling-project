@@ -32,4 +32,4 @@ and reastart the project
 - Include demonstrations of animation and responsive design with React.
 
   ## Screenshot
-  ![Screenshot]()
+  ![Screenshot](https://github.com/Matilda-bit/styling-project/blob/main/src/assets/Screenshot%202024-04-20%20at%2000.03.14.png?raw=true)
